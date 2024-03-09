@@ -1,1 +1,1 @@
-# software-installation-scriptt
+# software-installation-script
