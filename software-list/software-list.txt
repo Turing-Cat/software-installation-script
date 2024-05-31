@@ -1,0 +1,48 @@
+邮件：
+- 阿里邮箱
+- 网易邮箱大师
+浏览器：
+- chrome
+- edge
+开发：
+- idea
+- pycharm
+- vscode
+- nvim
+- QTCREATOR
+- 小熊猫
+- jdk8
+- maven
+- miniconda
+- docker
+- windterm
+- MobaXterm
+- Tiny RDM
+通信：
+- QQ
+- weixin
+- 企业微信
+笔记：
+- obsidian
+影音：
+- QQ音乐
+- 网易云音乐
+- VLC
+
+截图：
+- pixpin
+- ScreenToGif
+科研：
+- zotero
+工具
+- vmware
+- Hibit Uninstaller
+- translater-google-checker
+- OBS
+- 腾讯会议
+- 火绒
+- utools
+- Xmind
+- watt Toolkit
+- PDFgear
+

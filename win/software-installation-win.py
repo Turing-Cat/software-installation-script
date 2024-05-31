@@ -5,6 +5,13 @@ import os
 2、判断是否安装
 3、安装完毕！
 """
+def read_installation_list():
+    software_list = []
+    with open("installation-list.txt","r") as file:
+        for item in file:
+            software_list.append(item.strip())
+    return software_list
+
 installCommand  = "winget install -e --location C:\winget\software --id"
 software_list = []
 with open("installation-list.txt","r") as file:
